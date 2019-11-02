@@ -1,0 +1,15 @@
+102, 38424012O, juan carlos , trump
+103, 38424013A, juan carlos , trump
+104, 38424013C, pedro, trump
+105, 38424013D, pedro, trump
+106, 38424013E, juan carlos , trump
+69, 38424019A, ramiro, lopez
+70, 38424019B, elma, chapt
+71, 38424019C, ana, perez
+72, 38424019G, aaaa, ddddd
+107, 38424017H, a, b
+108, 38424017J, federico, ramoneda
+109, 38424014W, roberto, picapiedra
+110, 12345678K, ramoncin, carajo
+111, 99196975E, alfonso, quijarro
+112, 9494322Z, mal, mal
